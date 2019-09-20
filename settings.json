@@ -1,0 +1,123 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.fontSize": 14,
+
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/target":true,
+    "**/.vscode":true,
+    "**/.cache-loader":true,
+  },
+  "explorer.openEditors.visible": 0,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.enablePreview": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1,
+  "atlascode.jira.workingSite": {
+    "baseUrlSuffix": "test"
+  },
+  "git.autofetch": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.wordWrap": "on",
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "handlebars",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "pug",
+    "python",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "text",
+    "typescript",
+    "yaml",
+    "yml"
+  ],
+  "workbench.sideBar.location": "left",
+  "update.showReleaseNotes": false,
+  "editor.formatOnSave": false,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "[scss]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  },
+
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  },
+    "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": false
+  },
+  "editor.formatOnSave": false,
+  },
+    "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.formatOnSave": false,
+  },
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  // "editor.acceptSuggestionOnEnter": "off",
+  "sync.forceUpload": true,
+  "search.exclude": {
+    "**/.cache-loader": true,
+    "**/omni-back-pos/omni-provider-pos/target": true,
+    "**/target": true,
+    "*/**/build/": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "cSpell.userWords": [
+    "Dropdown"
+  ],
+  "files.watcherExclude": {
+    "**/.cache-loader/**": true
+  },
+}
