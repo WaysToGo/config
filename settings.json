@@ -105,7 +105,6 @@
   "workbench.editor.highlightModifiedTabs": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  // "editor.acceptSuggestionOnEnter": "off",
   "sync.forceUpload": true,
   "search.exclude": {
     "**/.cache-loader": true,
